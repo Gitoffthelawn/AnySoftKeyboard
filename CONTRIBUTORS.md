@@ -8,8 +8,8 @@ Thank you for the fine contributors:
 1. [ArenaL5](https://github.com/ArenaL5) (76)
 1. [martholomew](https://github.com/martholomew) (74)
 1. [nicoursi](https://github.com/nicoursi) (45)
+1. [google-labs-jules](https://github.com/google-labs-jules) (41) 🤖
 1. [justinmichaud](https://github.com/justinmichaud) (40)
-1. [google-labs-jules](https://github.com/google-labs-jules) (36) 🤖
 1. [abcdrfg777777777](https://github.com/abcdrfg777777777) (35)
 1. [hdlopes](https://github.com/hdlopes) (34)
 1. [lubenard](https://github.com/lubenard) (30)
@@ -78,6 +78,7 @@ Thank you for the fine contributors:
 1. [Unpublished](https://github.com/Unpublished) (3)
 1. [alex73](https://github.com/alex73) (2)
 1. [AngryHands](https://github.com/AngryHands) (2)
+1. [AnXh3L0](https://github.com/AnXh3L0) (2)
 1. [Azim](https://github.com/Azim) (2)
 1. [Blaimi](https://github.com/Blaimi) (2)
 1. [dependabot](https://github.com/dependabot) (2) 🤖
@@ -99,6 +100,5 @@ Thank you for the fine contributors:
 1. [1000283](https://github.com/1000283) (1)
 1. [andrewrabert](https://github.com/andrewrabert) (1)
 1. [Andy3153](https://github.com/Andy3153) (1)
-1. [AnXh3L0](https://github.com/AnXh3L0) (1)
 1. [Apflkuacha](https://github.com/Apflkuacha) (1)
 1. [baduhai](https://github.com/baduhai) (1)
