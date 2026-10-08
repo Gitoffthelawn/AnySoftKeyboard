@@ -32,6 +32,7 @@ Thank you for the fine contributors:
 1. [PFischbeck](https://github.com/PFischbeck) (8)
 1. [Aiq0](https://github.com/Aiq0) (7)
 1. [azzamsa](https://github.com/azzamsa) (7)
+1. [dependabot](https://github.com/dependabot) (7) 🤖
 1. [hsnamr](https://github.com/hsnamr) (7)
 1. [semaurer01](https://github.com/semaurer01) (7)
 1. [somini](https://github.com/somini) (7)
