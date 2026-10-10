@@ -62,6 +62,7 @@ Thank you for the fine contributors:
 1. [chrbauer](https://github.com/chrbauer) (4)
 1. [friesenkiwi](https://github.com/friesenkiwi) (4)
 1. [Luan1Carlos2](https://github.com/Luan1Carlos2) (4)
+1. [lwilk0](https://github.com/lwilk0) (4)
 1. [PromyLOPh](https://github.com/PromyLOPh) (4)
 1. [returntrip](https://github.com/returntrip) (4)
 1. [titoBouzout](https://github.com/titoBouzout) (4)
@@ -104,4 +105,3 @@ Thank you for the fine contributors:
 1. [1000283](https://github.com/1000283) (1)
 1. [andrewrabert](https://github.com/andrewrabert) (1)
 1. [Andy3153](https://github.com/Andy3153) (1)
-1. [Apflkuacha](https://github.com/Apflkuacha) (1)
